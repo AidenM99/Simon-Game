@@ -22,7 +22,7 @@ pattern correctly.
 
 ### Links
 
-- Live Site URL: 
+- Live Site URL: https://aidenm99.github.io/Simon-Game/
 
 ## My process
 
